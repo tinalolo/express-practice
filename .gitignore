@@ -1,0 +1,12 @@
+.idea/
+logs/
+dist/
+node_modules/
+download/
+**/out/
+**/tmp/
+**/temp/
+**/logs/
+.DS_Store
+coverage/
+vdr.sqlite
